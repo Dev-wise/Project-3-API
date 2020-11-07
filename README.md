@@ -86,6 +86,7 @@ go to the directory where you have all project in my case c:/Users/<username>/Do
 launch command prompt and make sure you are in right directory. 
 
 issue the command 
+
 docker-compose up
 
 now your system will create a docker container and you will abel to see the image name in docker desktop application which installed before.
