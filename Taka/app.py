@@ -67,13 +67,13 @@ def delete_this():
 @app.route('/delete',methods=["POST"])
 def delete():
 	try:
-		name = request.form['Name']
+		name = request.form['name']
 		#msg = name
 		conn = sqlite3.connect("db/GDT_1.db")
 		#conn.row_factory = sqlite3.Row
 		c = conn.cursor()
 		#name=name
-		c.execute("DELETE FROM GreenDeck WHERE Name=?",(name,))
+		c.execute("DELETE FROM GreenDeck WHERE name=?",(name,))
 		conn.commit()
 		msg = "success"
 	except:	
