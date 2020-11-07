@@ -60,12 +60,15 @@ Run pip install with the requirements.txt file inside this working directory.
 FROM python:3.8
 
 WORKDIR /app
+
 COPY . .
 
 RUN pip install -r requirements.txt
 
 ENTRYPOINT ["python"]
+
 CMD ["app.py"]
+
 
 docker-compose.yml
 
@@ -74,12 +77,19 @@ Docker compose is primarily a way for controlling multi-container builds, but we
 
 version: "3.7"
 
+
 services:
+
   taka:
+  
     build:
+    
       context: ./
+      
     ports:
+    
       - 5000:5000
+
 
 # launch docker 
 go to the directory where you have all project in my case c:/Users/<username>/Documents/<filename>/
