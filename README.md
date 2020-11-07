@@ -1,5 +1,7 @@
 # Flask_REST_API_with_Docker
 
+First i prepared my database and copy all json file into database
+to know more about makeing database and copy ~5000 data to it visit link: https://github.com/hsd01/copy_json_to_sqlite3_db
 #Install docker
 
 Install docker in windows it can be done by installing exe directoly into windows and following the next button and finish.
