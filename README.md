@@ -38,4 +38,12 @@ Taka
 * templets folder contains .html files 
 * and rest are docker files and requirement text file 
 * last app.py file which have main codes 
-# 
+
+-- requirement.txt file tells python everything it will need to run our app.
+
+# The Docker
+
+So what is this docker-compose.yml file?
+This file is basically the backbone of Docker-Compose as it contains all the information needed to run the desired services.
+
+
