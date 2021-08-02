@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<table boarder='1'>
+		<thead>
+			<td>name</td>
+			<td>brand_name</td>
+			<td>regular_price_value</td>
+			<td>offer_price_value</td>
+			<td>currency</td>
+			<td>classification_l1</td>
+			<td>classification_l2</td>
+			<td>classification_l3</td>
+			<td>classification_l4</td>
+		</thead>
+		{% for row in rows %}
+
+		<tr>
+			<td>{{row['name']}}</td>
+			<td>{{row['brand_name']}}</td>
+			<td>{{row['regular_price_value']}}</td>
+			<td>{{row['offer_price_value']}}</td>
+			<td>{{row['currency']}}</td>
+			<td>{{row['classification_l1']}}</td>
+			<td>{{row['classification_l2']}}</td>
+			<td>{{row['classification_l3']}}</td>
+			<td>{{row['classification_l4']}}</td>
+		</tr>
+
+		{% endfor %}
+	</table>
+	<a href="/">Go to Home</a>
+</body>
+</html>
