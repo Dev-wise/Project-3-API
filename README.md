@@ -43,7 +43,7 @@ Delete the record
 References
 
 This project was started on a template by Hsd01
-There were a dew key youtube tutorials which helped with the log in and database part.
+There were a Few key youtube tutorials which helped with the log in and database part.
 https://www.youtube.com/watch?v=dam0GPOAvVI&ab_channel=TechWithTim
 https://www.youtube.com/watch?v=5WBYxNZz8Zw&ab_channel=KeithWilliams
 https://www.youtube.com/watch?v=CweFPVewYS0&list=PLR2qQy0Zxs_X8Ia11ynzf4EERaSxJlRe4&ab_channel=Codepur
