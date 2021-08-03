@@ -27,6 +27,8 @@ Succesful entry into databade :)
 
 ![Screen Shot 2021-08-02 at 2 06 12 AM](https://user-images.githubusercontent.com/85535997/127815279-c51d1c58-95b3-4335-b664-40a9914e64d9.png)
 
+Updating the record
+
 ![Screen Shot 2021-08-02 at 2 07 35 AM](https://user-images.githubusercontent.com/85535997/127815285-792943d7-8a12-428e-8b22-cf2311e9bbc4.png)
 
 ![Screen Shot 2021-08-02 at 2 08 10 AM](https://user-images.githubusercontent.com/85535997/127815290-27a7735a-f029-47d1-8100-b983784701d8.png)
