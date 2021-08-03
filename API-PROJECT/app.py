@@ -8,7 +8,7 @@ app = Flask(__name__)
 def home():
 	return render_template('home.html')
 
-# New wntry page this will led to html entry form
+# New entry page this will led to html entry form
 @app.route('/enternew')
 def add_new():
 	return render_template('addnew.html')
@@ -55,6 +55,11 @@ def list():
 	c.execute("SELECT * FROM GreenDeck") # selecting everything from table named GreenDeck
 	rows = c.fetchall()
 	return render_template("list.html",rows=rows)
+
+# function to login data from database
+@app.route('/login')
+def index():
+	return render_template("login.html")
 
 
 # function to delete the data from database
