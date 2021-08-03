@@ -6,7 +6,10 @@ Simple restful APIs were created to show the utilization of its functions such a
 
 Summer 2021
 
-To run project ensure Docker is running and Localhost:4000 is opened in the broswer.![Screen Shot 2021-08-03 at 2 34 36 AM]
+To run project ensure Docker is running and Localhost:4000 is opened in the broswer.!
+
+
+[Screen Shot 2021-08-03 at 2 34 36 AM]
 User Login template with basic HTML template
 ![Screen Shot 2021-08-03 at 1 39 28 AM](https://user-images.githubusercontent.com/85535997/127963739-496a85e3-8eeb-402c-b48e-a8389a54cb29.png)
 
