@@ -7,6 +7,8 @@ Simple restful APIs were created to show the utilization of its functions such a
 Summer 2021
 
 To run project ensure Docker is running and Localhost:4000 is opened in the broswer.!
+Make sure you have all dependencies installed in the requirement folder.
+Load the dockercompose into the configuration and have python 3.8 as the interpreter
 
 
 User Login template with basic HTML template
