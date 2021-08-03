@@ -56,6 +56,11 @@ def list():
 	rows = c.fetchall()
 	return render_template("list.html",rows=rows)
 
+# function to login data from database
+@app.route('/login')
+def index():
+	return render_template("login.html")
+
 
 # function to delete the data from database
 # keep in mind to delete data from database user must need admin permision to do so in any database host system
