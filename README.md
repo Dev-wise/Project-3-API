@@ -25,7 +25,10 @@ User Login template with basic HTML template
 
 ![Screen Shot 2021-08-02 at 2 08 10 AM](https://user-images.githubusercontent.com/85535997/127815290-27a7735a-f029-47d1-8100-b983784701d8.png)
 
-(https://user-images.githubusercontent.com/85535997/127969055-f94f4e1d-009d-4a04-873d-93301c93efad.png)
+![Screen Shot 2021-08-03 at 2 34 36 AM](https://user-images.githubusercontent.com/85535997/127970575-dab05b0e-2929-474c-9f55-8dc28bb602a1.png)
+
+
+
 
 References
 
