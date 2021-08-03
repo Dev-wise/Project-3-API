@@ -21,6 +21,8 @@ Adding a new record
 
 ![Screen Shot 2021-08-02 at 2 09 22 AM](https://user-images.githubusercontent.com/85535997/127815240-57fa4add-dae7-468d-ad16-992666ad39b3.png)
 
+Succesful entry into databade :)
+
 ![Screen Shot 2021-08-02 at 2 05 38 AM](https://user-images.githubusercontent.com/85535997/127815259-780451f2-baec-4225-9fce-cefd08ecc98b.png)
 
 ![Screen Shot 2021-08-02 at 2 06 12 AM](https://user-images.githubusercontent.com/85535997/127815279-c51d1c58-95b3-4335-b664-40a9914e64d9.png)
